@@ -1,0 +1,11 @@
+.container-search{
+    display: block;
+}
+
+form {
+    display: inline-flex;
+}
+
+.container-follower{
+    width: 60%  !important;
+}
